@@ -1,12 +1,5 @@
-// Copyright (c) Microsoft Corporation.
-// Licensed under the MIT License. See LICENSE in the project root for license information.
 table 82564 "ADLSE Table Last Timestamp"
 {
-    /// <summary>
-    /// Keeps track of the last exported timestamps of different tables.
-    /// <remarks>This table is not per company table as some of the tables it represents may not be data per company. Company name field has been added to differentiate them.</remarks>
-    /// </summary>
-
     Access = Internal;
     DataClassification = CustomerContent;
     DataPerCompany = false;

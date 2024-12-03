@@ -1,5 +1,3 @@
-// Create an API page for table and field
-
 page 82567 "ADLSE Field API"
 {
     PageType = API;
